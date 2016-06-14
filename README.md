@@ -7,11 +7,11 @@ This is the homework assignment for Intro to JS.
 
 ## Hard(ish) Mode ( SEMI-COMPLETE)
 
-- Write a function that takes three parameters x, y, and z. It should return the sum of the squares of the two largest numbers.
+- [] Write a function that takes three parameters x, y, and z. It should return the sum of the squares of the two largest numbers.
 - [x] Listen to the [JS Jabber Interview with Brendan Eich](http://devchat.tv/js-jabber/124-jsj-the-origin-of-javascript-with-brendan-eich)
 - [x] Sign up for [JS Weekly](http://javascriptweekly.com/)
 
 
 ## Nightmare Mode
 
-- Try to write (or just think of) a function with one argument, `n`. It should use `console.log` to print the numbers from n down to 0 without using a `for` loop. Is there any possible way this could work? (Hint: It is possible and you'll need a conditional. This is pretty tricky.)
+- [] Try to write (or just think of) a function with one argument, `n`. It should use `console.log` to print the numbers from n down to 0 without using a `for` loop. Is there any possible way this could work? (Hint: It is possible and you'll need a conditional. This is pretty tricky.)
